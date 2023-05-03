@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "piratesImage.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
